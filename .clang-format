@@ -1,0 +1,7 @@
+BasedOnStyle: llvm
+IndentWidth: 4
+ContinuationIndentWidth: 8
+NamespaceIndentation: None
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+SortIncludes: false
