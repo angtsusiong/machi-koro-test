@@ -1,0 +1,4 @@
+{
+    "image": "ghcr.io/angtsusiong/machi-koro-cpp-devcontainer:latest",
+    "remoteUser": "vscode"
+}
